@@ -1,4 +1,4 @@
-REDAME file miniproject Patricipants
+README file miniproject Patricipants
 
 22/03 
 - Started watching tutorial videos introducing GUI
